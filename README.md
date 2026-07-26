@@ -47,7 +47,6 @@ To design a structured prompt that generates high-quality website copy for a loc
 
 ## Repository Structure
 
-```
 FUTURE_PE_01
 │
 ├── README.md
@@ -55,10 +54,13 @@ FUTURE_PE_01
 ├── Services_Page.md
 ├── CTA_Content.md
 ├── Prompt_Logic.md
-└── screenshots/
-```
+├── homepage.png
+├── aboutpage.png
+├── servicespage.png
+├── menupage.png
+├── contactpage.png
+└── promt.png.png
 
----
 
 ## Prompt Engineering Approach
 
@@ -78,6 +80,13 @@ This approach helped generate clear, engaging, and website-ready content specifi
 The AI successfully generated a complete website copy for **Divine Cuisine**, including a homepage, service descriptions, and strong call-to-action content. The generated content is suitable for a real business website and demonstrates the effectiveness of Prompt Engineering in creating professional marketing content.
 
 ---
+## Website Preview
+
+A website prototype was created using Lovable AI based on the generated website copy.
+
+**Live Website:**
+https://divine-bite-kitchen.lovable.app
+
 
 ## Author
 
